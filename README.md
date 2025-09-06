@@ -30,11 +30,11 @@ It allows users to browse products, add them to a cart, and simulate checkout. T
 
 ## Installation
 ### 1. Clone the repository
-`git clone https://github.com/<your-username>/Ecommerce.git`
-`cd Ecommerce`
+git clone https://github.com/<your-username>/Ecommerce.git
+cd Ecommerce
 ### 2. Backend Setup
-`cd backend`
-`npm install`
+cd backend
+npm install
 Create a .env file in backend/:
 PORT=5000
 MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/mernEcommerce?retryWrites=true&w=majority
