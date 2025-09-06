@@ -25,7 +25,6 @@ It allows users to browse products, add them to a cart, and simulate checkout. T
 - Express.js
 - MongoDB Atlas
 - Mongoose
-- dotenv for environment variables
 - CORS middleware
 
 ## Installation 💻
