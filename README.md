@@ -42,10 +42,10 @@ Go to the backend folder and install dependencies:
 `cd backend`  
 `npm install`
 
-Create a `.env` file in the `backend/` folder with:
+- Create a `.env` file in the `backend/` folder with:
 
-PORT=5000
-MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/mernEcommerce?retryWrites=true&w=majority
+  PORT=5000
+  MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/mernEcommerce?retryWrites=true&w=majority
 
 Start backend server:
 
