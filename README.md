@@ -34,7 +34,6 @@ Run the following commands in your terminal:
 
 `git clone https://github.com/<your-username>/Ecommerce.git`  
 `cd Ecommerce`
-
 ### 2. Backend Setup
 
 Go to the backend folder and install dependencies:
@@ -50,7 +49,6 @@ Create a `.env` file in the `backend/` folder with:
 Start backend server:
 
 `npm run dev`
-
 ### 3. Frontend Setup
 
 `cd ../frontend`
