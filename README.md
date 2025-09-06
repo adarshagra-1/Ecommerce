@@ -32,10 +32,14 @@ It allows users to browse products, add them to a cart, and simulate checkout. T
 
 ### 1. Clone the repository
 Run the following commands in your terminal:
+
 `git clone https://github.com/<your-username>/Ecommerce.git`  
 `cd Ecommerce`
+
 ### 2. Backend Setup
+
 Go to the backend folder and install dependencies:
+
 `cd backend`  
 `npm install`
 Create a `.env` file in the `backend/` folder with:
