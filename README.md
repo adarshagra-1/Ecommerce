@@ -38,6 +38,7 @@ Go to the backend folder and install dependencies:
 
 `cd backend`  
 `npm install`
+
 Create a `.env` file in the `backend/` folder with:
 
 `PORT=5000`
@@ -54,7 +55,7 @@ Start backend server:
 
 Frontend runs on: http://localhost:3000
 
-## Folder Structure 📂
+## Folder Structure
 ecommerce/
 │
 ├── backend/          # Node.js + Express backend
@@ -69,7 +70,7 @@ ecommerce/
 │
 └── README.md
 
-## Future Improvements 🌟
+## Future Improvements
 - User authentication and authorization
 - Payment gateway integration
 - Product search and filtering
