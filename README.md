@@ -57,17 +57,14 @@ Frontend runs on: http://localhost:3000
 
 ## Folder Structure
 ecommerce/
-│
-├── backend/          # Node.js + Express backend
+├── backend/
 │   ├── routes/
 │   ├── models/
 │   ├── controllers/
-│
-├── frontend/         # React frontend
+├── frontend/
 │   ├── src/
 │   ├── public/
 │   └── package.json
-│
 └── README.md
 
 ## Future Improvements
