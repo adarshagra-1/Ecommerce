@@ -1,4 +1,4 @@
-# TechShop - E-commerce Project
+# TechShop :- E-commerce Project
 
 ## Project Overview
 TechShop is a full-stack **MERN (MongoDB, Express, React, Node.js)** E-commerce web application.  
